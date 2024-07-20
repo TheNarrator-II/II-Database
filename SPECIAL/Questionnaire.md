@@ -1,0 +1,3 @@
+If you're reading this, then you're probably still unconscious. Don't worry too much about it, you'll wake up soon.
+
+While you're unconscious, ΗӘϐı˘´ is going to evaluate your..... physical and mental wellness, to prepare you for the game. Don't worry, you won't have to learn for this test, and the questions still have to be generated. It is solely to understand and process how, for example, insightful you are, or how strong you are. The attributes that have been measured will be revealed after the test is finished for everyone
