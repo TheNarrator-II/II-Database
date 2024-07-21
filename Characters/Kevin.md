@@ -1,0 +1,12 @@
+Power iiii
+Perseverance ii
+Puissance i
+Promptiveness ii
+Placid ii 
+Perception iiiiii
+Preciseness iiiii
+Pronunciation ii
+Palter i
+Prudence iii
+Proficiency iiiii
+Prosperity iiii
