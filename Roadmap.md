@@ -24,6 +24,7 @@ kanban-plugin: board
 
 ## done!
 
+- [ ] Shcizo
 
 
 
