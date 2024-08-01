@@ -1,0 +1,1 @@
+You are immune to suicide. Instead, whenever Suicide is supposed to occur, you 
