@@ -12,4 +12,5 @@ Story-wise:
 	Intimidation (together with Charisma)
 	Heavier weapons have a higher Strength requirement
 
+
 "I used to know a gal that was feared by everyone for her strength. Even though it was sligthly exaggerated due to her weapon, I am thankful regardless, since many of our problems were 'solved' by her.¨
