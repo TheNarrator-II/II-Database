@@ -6,7 +6,7 @@ As long as this trait is active, obtain the following effects:
 -Stress gained by pain will be ignored.
 BUT
 -Every time you attack something, stress will be increased by 5.
--Whenever this trait deactivates, lower speed and stamina to 0 and obtain the Exhausted status effect.
+-Whenever this trait deactivates, lower speed and stamina to 0 and obtain the [Exhausted](https://github.com/TheNarrator-II/II-Database/blob/main/Theories/Status%20Effects/Exhausted.md) status effect.
 -You are forced to sleep on the same day you've activated Adrenaline Junkie.
 
 Choosing not to activate this trait during combat will give you the [Nervous](https://github.com/TheNarrator-II/II-Database/blob/main/Theories/Status%20Effects/Nervous.md) status effect after combat.
