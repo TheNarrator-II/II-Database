@@ -4,6 +4,7 @@ Stats-wise
 	+100 Health
 	+100 Blood
 	+50 Limb Health (Default is 150 HP)
+	+20 Radiation Threshold
 Story-wise 
 	More resistance against disease and other afflictions
 

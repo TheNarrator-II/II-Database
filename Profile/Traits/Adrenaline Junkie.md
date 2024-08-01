@@ -1,7 +1,7 @@
 When your Stress is over 70 and when you are inside combat, you have the option to activate this trait. 
 
 As long as this trait is active, obtain the following effects:
--Speed is increased by 10 (this will surpass the limit, which is 10.)
+-[Speed](https://github.com/TheNarrator-II/II-Database/blob/main/Profile/Aptitudes/Physical/Speed.md) is increased by 10 (this will surpass the limit, which is 10.)
 -Chance for [Endured](https://github.com/TheNarrator-II/II-Database/blob/main/Theories/Status%20Effects/Endure.md) to succeed is increased by 25%.
 -Stress gained by pain will be ignored.
 BUT

@@ -7,3 +7,4 @@ Story-wise
 
 
 "We were at a bar once, when Fynne decided to show a nice little magic trick. He always knew his way around cards. As he showed the public how cards vanished in thin air, I had to pickpocket them all. We got lots of Grogs for that. Those were the days..."
+

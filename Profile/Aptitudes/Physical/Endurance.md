@@ -5,6 +5,7 @@ Stats-wise
 	+2 Stamina
 	+2% to Endure an attack
 	+2 Unarmed damage
+	+20 Radiation Threshold
 Story-wise
 	Higher probability to endure surprise attacks
 
