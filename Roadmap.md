@@ -9,14 +9,13 @@ kanban-plugin: board
 - [ ] Background Lore
 - [ ] Present lore
 - [ ] Spells
-- [ ] Status Effects
 - [ ] list of starter spells
-- [ ] Change Character Sheet
 - [ ] General Info (Weapon Condition, Health and more qwq)
 
 
 ## In progress
 
+- [ ] Status Effects
 - [ ] PAPA Aptitudes
 - [ ] list of starter perks
 - [ ] Entry: Race
@@ -24,12 +23,13 @@ kanban-plugin: board
 
 ## some fine tuning
 
-- [ ] list of traits
-- [ ] Character creation
+- [ ] Change Character Sheet
+- [ ] Pondering about Traits
 
 
 ## done!
 
+- [ ] list of traits
 
 
 
