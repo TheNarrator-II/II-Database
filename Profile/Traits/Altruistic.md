@@ -7,5 +7,6 @@ Whenever you Taunt the enemy, gain +20 DT and a d6 skill check. Depending on the
 Since you value others above you, you will suffer 10% of the damage they suffer in combat in the form of Stress.
 
 (Damage Threshold, also known as DT, deflect 90% of any damage value below the DT)
-(Taunt is a type of attack that grants its user the Targeted status effect.)
+(Taunt is a type of attack that grants its user the [Targeted](https://github.com/TheNarrator-II/II-Database/blob/main/Theories/Status%20Effects/Targeted.md) status effect.)
+
 *¨The victim seems to prioritise others over itself. It will give its life for their peers.¨*
