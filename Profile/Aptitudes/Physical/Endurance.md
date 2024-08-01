@@ -2,11 +2,13 @@ Summary:
 Endurance's importance lies in protecting the player by granting it Stamina and a small, yet noticeable at certain times, probability to [Endure](https://github.com/TheNarrator-II/II-Database/blob/main/Theories/Status%20Effects/Endure.md) an attack. Players with a higher Endurance will also notice that their Unarmed attacks deal more damage. Players should invest in Endurance if they want to be able to survive heavy blows, have enough Stamina to exert the body and be able to take the fight with your fists.
 
 Stats-wise
+	
 	+2 Stamina
 	+2% to Endure an attack
 	+2 Unarmed damage
 	+20 Radiation Threshold
 Story-wise
+	
 	Higher probability to endure surprise attacks
 
 
