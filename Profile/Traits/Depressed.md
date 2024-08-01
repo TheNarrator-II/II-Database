@@ -1,1 +1,1 @@
-You are immune to suicide. Instead, whenever Suicide is supposed to occur, you 
+You are immune to [Suicide](https://github.com/TheNarrator-II/II-Database/blob/main/Theories/Status%20Effects/Suicide.md). Instead, whenever Suicide is supposed to occur, you 
