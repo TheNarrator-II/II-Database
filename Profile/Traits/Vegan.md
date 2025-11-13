@@ -1,3 +1,3 @@
-As long as you gain nutritional value out of it, gain an additional 10% HP from eating fruits and berries and an additional 10% Sanity from eating vegetables, nuts and roots. However, gain +10 Trauma once you eat any animal-based product and +10 Trauma per day as long as you wear animal-based clothes (fur, leather, etc.)
+As long as you gain nutritional value out of it, gain an additional 10% HP from eating fruits and berries and an additional 10% Sanity from eating vegetables, nuts and roots. However, gain +10 Trauma once you eat any animal-based product and +10 Trauma per day as long as you wear animal-based clothes (fur, leather, etc.) ALLO
 
 *"The victim seems to feel more empathy towards animals than towards humanoid or intelligent life."*
