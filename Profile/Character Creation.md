@@ -6,11 +6,8 @@ Each character has the following components
 FUNCTIONAL: contribute to the abilities of your character. 
 
 Race
-
 Aptitudes
-
 [Traits](https://github.com/TheNarrator-II/II-Database/tree/main/Profile/Traits)
-
 Background
 
 
