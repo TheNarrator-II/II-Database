@@ -12,6 +12,7 @@ kanban-plugin: board
 - [ ] list of starter spells
 - [ ] General Info (Weapon Condition, Health and more qwq)
 - [ ] list of starter perks
+- [ ] [[List of items]]
 
 
 ## In progress
@@ -23,12 +24,11 @@ kanban-plugin: board
 
 ## some fine tuning
 
-- [ ] Pondering about Traits
+- [ ] list of traits
 
 
 ## done!
 
-- [ ] list of traits
 
 
 
