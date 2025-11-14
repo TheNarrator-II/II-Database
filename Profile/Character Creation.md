@@ -7,7 +7,7 @@ FUNCTIONAL: contribute to the abilities of your character.
 
 Race <br>
 Aptitudes <br>
-[Traits](https://github.com/TheNarrator-II/II-Database/tree/main/Profile/Traits)<br>
+[[Traits]] <br>
 Background<br>
 Former Faction<br>
 Inventory/Starting items<br>
@@ -25,6 +25,7 @@ Personality<br>
 Alignment<br>
 
 --------------------------------------------
+Traits:
 
 
 
