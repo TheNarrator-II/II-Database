@@ -7,7 +7,7 @@ FUNCTIONAL: contribute to the abilities of your character.
 
 Race <br>
 Aptitudes <br>
-[[Traits]] <br>
+[Traits](https://github.com/TheNarrator-II/II-Database/tree/main/Profile/Traits)<br>
 Background<br>
 Former Faction<br>
 Inventory/Starting items<br>
@@ -25,7 +25,9 @@ Personality<br>
 Alignment<br>
 
 --------------------------------------------
-Traits:
+Traits
+
+Traits are the voordelen van kannibalisme
 
 
 
