@@ -7,9 +7,9 @@ FUNCTIONAL: contribute to the abilities of your character.
 
 Race <br>
 Aptitudes <br>
-[Traits](https://github.com/TheNarrator-II/II-Database/tree/main/Profile/Traits)
-Background
-Former Faction
+[Traits](https://github.com/TheNarrator-II/II-Database/tree/main/Profile/Traits)<br>
+Background<br>
+Former Faction<br>
 
 COSMETIC: do not contribute to the abilities of your character. Sky's the limit <3
 
