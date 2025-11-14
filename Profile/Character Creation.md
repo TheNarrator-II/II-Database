@@ -10,6 +10,22 @@ Aptitudes <br>
 [Traits](https://github.com/TheNarrator-II/II-Database/tree/main/Profile/Traits)<br>
 Background<br>
 Former Faction<br>
+Inventory/Starting items<br>
+Spells<br>
+Mana<br>
+Devotion<br>
 
-COSMETIC: do not contribute to the abilities of your character. Sky's the limit <3
+COSMETIC: do not contribute to the abilities of your character. Do whatever you want! Sky's the limit <3
+
+Name <br>
+Appearance<br>
+Gender<br>
+Lore<br>
+Personality<br>
+Alignment<br>
+
+--------------------------------------------
+
+
+
 
