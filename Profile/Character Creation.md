@@ -25,10 +25,16 @@ Personality<br>
 Alignment<br>
 
 --------------------------------------------
-Traits
+RACE
 
-Traits are the voordelen van kannibalisme
+Race determines what.... well... what race you are (insert vine boom.sfx). Unlike in DnD, races can impact gameplay significantly and requirements differ per race. The current races one can choose is Islander, Magician, Phantom, Droid, Salt Wolf and Monkey
 
+You can choose one race during character creation.
+
+
+APTITUDES
+
+Aptitudes are the basic skills that your character will have. The 
 
 
 
