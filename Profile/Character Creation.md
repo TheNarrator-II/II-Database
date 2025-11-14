@@ -5,11 +5,11 @@ Each character has the following components
 
 FUNCTIONAL: contribute to the abilities of your character. 
 
-Race
-Aptitudes
+Race <br>
+Aptitudes <br>
 [Traits](https://github.com/TheNarrator-II/II-Database/tree/main/Profile/Traits)
 Background
-
+Former Faction
 
 COSMETIC: do not contribute to the abilities of your character. Sky's the limit <3
 
